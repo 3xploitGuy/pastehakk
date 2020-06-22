@@ -1,5 +1,5 @@
 # PasteHakk ![License](https://img.shields.io/badge/License-GNU-red.svg) ![Version](https://img.shields.io/badge/Version-1.0-yellow.svg)
-A tool to perform clipboard poisoning or paste jacking attack. There are many tools for performing this type of attack but I found none of them provides user to use their own html files, so I came up with this.
+A tool to perform clipboard poisoning or paste jacking attack. There are many tools for performing this type of attack but I found most of them are dead and none of them provides user to use their own html files, so I came up with this.
 
 [Watch tutorial on youtube](https://www.youtube.com/channel/UCAdDJn4yWzQMJyKyRWne3qg)
 
